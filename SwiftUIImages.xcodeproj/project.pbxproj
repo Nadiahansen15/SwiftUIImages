@@ -15,6 +15,7 @@
 		C5A01FAB251DDF7700D5DAF1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5A01FA9251DDF7700D5DAF1 /* LaunchScreen.storyboard */; };
 		C5A01FB6251DDF7700D5DAF1 /* SwiftUIImagesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5A01FB5251DDF7700D5DAF1 /* SwiftUIImagesTests.swift */; };
 		C5A01FC1251DDF7700D5DAF1 /* SwiftUIImagesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5A01FC0251DDF7700D5DAF1 /* SwiftUIImagesUITests.swift */; };
+		C5A01FCF251DE0DD00D5DAF1 /* MyImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5A01FCE251DE0DD00D5DAF1 /* MyImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C5A01FBC251DDF7700D5DAF1 /* SwiftUIImagesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIImagesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C5A01FC0251DDF7700D5DAF1 /* SwiftUIImagesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIImagesUITests.swift; sourceTree = "<group>"; };
 		C5A01FC2251DDF7700D5DAF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C5A01FCE251DE0DD00D5DAF1 /* MyImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				C5A01F9E251DDF7400D5DAF1 /* AppDelegate.swift */,
 				C5A01FA0251DDF7400D5DAF1 /* SceneDelegate.swift */,
 				C5A01FA2251DDF7400D5DAF1 /* ContentView.swift */,
+				C5A01FCE251DE0DD00D5DAF1 /* MyImage.swift */,
 				C5A01FA4251DDF7700D5DAF1 /* Assets.xcassets */,
 				C5A01FA9251DDF7700D5DAF1 /* LaunchScreen.storyboard */,
 				C5A01FAC251DDF7700D5DAF1 /* Info.plist */,
@@ -268,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C5A01F9F251DDF7400D5DAF1 /* AppDelegate.swift in Sources */,
+				C5A01FCF251DE0DD00D5DAF1 /* MyImage.swift in Sources */,
 				C5A01FA1251DDF7400D5DAF1 /* SceneDelegate.swift in Sources */,
 				C5A01FA3251DDF7400D5DAF1 /* ContentView.swift in Sources */,
 			);
